@@ -1,0 +1,50 @@
+# Pastas de build
+bin/
+obj/
+
+# Configurações de usuários do Visual Studio
+.vs/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+
+# Arquivos de cache e backup
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.pdb
+*.tmp
+*.log
+*.sln.docstates
+
+# Dependências geradas pelo NuGet
+packages/
+
+# Arquivos de pacotes NuGet
+*.nupkg
+# Se estiver usando o NuGet localmente, pode querer ignorar também:
+# .nuget/
+
+# Resultados de publicação
+*.Publish.xml
+*.PublishSettings
+
+# Configurações de layout de janela do Visual Studio
+*.ide.spi
+
+# Arquivos temporários, de backup e outros específicos do ambiente
+*.tmp
+*.bak
+*.swp
+*.db
+*.opendb
+
+# Logs
+*.log
+
+# Resultados de Testes
+TestResults/
+*.trx
+*.VisualState.xml
